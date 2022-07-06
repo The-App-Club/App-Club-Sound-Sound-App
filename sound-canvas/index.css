@@ -1,0 +1,19 @@
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+.file {
+  visibility: hidden;
+}
+
+.reflector {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  border: 1px solid #000;
+}

@@ -1,0 +1,6 @@
+- Ref
+  - https://examples.flock.codes/music
+- Stack
+  - [use-sound](https://github.com/joshwcomeau/use-sound#readme)
+  - [React-SiriWave](https://github.com/JoeyKo/React-SiriWave#readme)
+  - [howler.js](https://github.com/goldfire/howler.js#documentation)
